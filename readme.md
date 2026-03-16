@@ -33,3 +33,5 @@
 7. **Další vývoj**
     - Proveďte změny v souborech
     - Opakujte kroky `git add`, `git commit`, `git push`
+
+    ahoj
